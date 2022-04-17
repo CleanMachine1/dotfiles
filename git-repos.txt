@@ -1,0 +1,11 @@
+git@github.com:CleanMachine1/capitalise.git
+git@github.com:CleanMachine1/CleanMachine1.git
+git@github.com:CleanMachine1/DollarSkip.git
+git@github.com:CleanMachine1/Go-Code.git
+git@github.com:CleanMachine1/Linux-DNS-Set.git
+git@github.com:CleanMachine1/PKGBUILDs.git
+git@github.com:CleanMachine1/Python-Code.git
+git@github.com:CleanMachine1/tldr-page-creator.git
+git@github.com:CleanMachine1/trial.git
+git@github.com:tldr-pages/tldr.git
+git@github.com:EbookFoundation/free-programming-books.git
